@@ -8,7 +8,7 @@
   "server": {
     "ip": "SANTOSASMP.aternos.me:35655",
     "port": 35655,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
