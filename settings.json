@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SANTOSASMP.aternos.me:35655",
+    "ip": "SANTOSASMP.aternos.me",
     "port": 35655,
     "version": "1.21.11",
     "try-creative": false
